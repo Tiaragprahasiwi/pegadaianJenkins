@@ -1,4 +1,0 @@
-FROM python:3
-ADD testjenkins.py /
-CMD [ "python", "./testjenkins.py" ]
-
